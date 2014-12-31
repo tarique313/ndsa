@@ -22,22 +22,22 @@ function wr_corsa_color_schemes_output() {
 
 		<style>
 			body, button, input[type="button"], input[type="reset"], input[type="submit"], .header-top, .page-nav li .current, .page-nav li a:hover, .comments-area .action-link a:hover, .comment-respond .comment-form .form-submit input[type="submit"]:hover, .widget #wp-calendar caption, .page-offline footer {
-				background-color: #78bfa4;
+				background-color: #1a6018;
 			}
 			a, #menu-main li.current-menu-item > a, #menu-main li a:hover, .format-standard .entry-title a, .format-standard .entry-title i, .entry-meta i, .entry-meta a:hover, .widget a:hover, .site-footer a, #menu-top li .sub-menu li a:hover {
 				color: #78bfa4;
 			}
 			.search-box form input[type="text"], .format-standard .entry-title a, .format-standard .entry-title i, .comments-area .comment-body, .comment-respond .comment-form [class*="comment-form"] input:focus, .comment-respond .comment-form .comment-form-comment textarea:focus, .widget input:focus {
-				border-color: #78bfa4;
+				border-color: #1a6018;
 			}
 			blockquote, address, q {
-				border-left: 3px solid #78bfa4;
+				border-left: 3px solid #1a6018;
 			}
 			.content-bottom .widget ul li {
 				background: url("<?php echo get_template_directory_uri() . '/assets/img/icons/dot-white.png' ?>") no-repeat left 8px;
 			}
 			.page-offline .countdown li {
-				border-color: #78bfa4 #eee #eee;
+				border-color: #1a6018 #eee #eee;
 			}
 			.content-bottom {
 				background: #18704e;
