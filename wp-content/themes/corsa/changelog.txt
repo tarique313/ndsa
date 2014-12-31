@@ -1,0 +1,37 @@
+Corsa Changelog
+---------------
+
+### 2014.12.25 - 1.1
+----------------------
+* Fix:   Compatibility problem with wordpress 4.1
+* Fix:   Change link to documentation
+* Fix:   Remove config of Social Networks, Favicon, Google Analytics ID on theme customizer
+* Tweak: Modify theme customizer sanitization callback
+* Tweak: Update footer credit link
+* Tweak: Change theme screenshot and theme URI
+* Tweak: Change mechanism enqueue jquery script
+* Tweak: Modify some script and style min file
+* New:   Integration woocommece plugin
+* New:   Integration Advancced custom fields plugin
+* New:   Add theme suport JetPack
+
+
+### 2014.12.18 - 1.0.2
+----------------------
+* Tweak: Change mechanism enqueue jquery script
+* Tweak: Modify some script and style min file
+
+
+### 2014.11.24 - 1.0.1
+----------------------
+* Fix:   Change link to documentation
+* Fix:   Remove config of Social Networks, Favicon, Google Analytics ID on theme customizer
+* Tweak: Modify theme customizer sanitization callback
+* Tweak: Update footer credit link
+* Tweak: Change theme screenshot and theme URI
+* New:   Add theme suport JetPack
+
+
+### 2014.10.10 - 1.0.0
+----------------------
+* Initial release

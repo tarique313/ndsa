@@ -1,0 +1,130 @@
+/**
+ * @version    1.1
+ * @package    Corsa
+ * @author     WooRockets Team <support@woorockets.com>
+ * @copyright  Copyright (C) 2014 WooRockets.com. All Rights Reserved.
+ * @license    GNU/GPL v2 or later http://www.gnu.org/licenses/gpl-2.0.html
+ *
+ * Websites: http://www.woorockets.com
+ */
+.jsn-bootstrap3 a:focus {
+	outline: 0;
+}
+.jsn-bootstrap3 .wr-element-button .btn {
+	border-radius: 0
+}
+.jsn-bootstrap3 .wr-element-button .btn i[class*="icon-"] {
+	margin-right: 20px;
+}
+.jsn-bootstrap3 .wr-element-table p {
+	margin-bottom: 0;
+}
+@media only screen and (max-width: 320px) {
+	.jsn-bootstrap3 .wr-element-table table {
+		font-size: 9px;
+	}
+}
+@media only screen and (max-width: 768px) {
+	.jsn-bootstrap3 .wr-element-audio > div {
+		width: 100% !important;
+	}
+}
+
+/*  [ Accordion ]
+- - - - - - - - - - - - - - - - - - - - */
+.jsn-bootstrap3 .wr-element-accordion .panel {
+	box-shadow: none;
+}
+.jsn-bootstrap3 .wr-element-accordion .panel-group .panel,
+.jsn-bootstrap3 .wr-element-accordion .panel-default > .panel-heading {
+	border-radius: 0;
+}
+.jsn-bootstrap3 .wr-element-accordion .panel-default {
+	border-color: #798aa4;
+}
+.jsn-bootstrap3 .wr-element-accordion .panel-default > .panel-heading {
+	border: 0;
+}
+.jsn-bootstrap3 .wr-element-accordion .panel-title a {
+	font-weight: 300;
+	text-transform: uppercase;
+	color: #fff;
+	padding: 15px;
+}
+.jsn-bootstrap3 .wr-element-accordion .panel-default > .panel-heading,
+.jsn-bootstrap3 .wr-element-accordion .panel-title a:hover {
+	background: #798aa4;
+}
+
+/*  [ Carousel ]
+- - - - - - - - - - - - - - - - - - - - */
+.jsn-bootstrap3 .wr-element-carousel .carousel .carousel-control span {
+	opacity: 0;
+	cursor: pointer;
+	-webkit-transition: all .3s ease-in-out 0s;
+	-moz-transition:    all .3s ease-in-out 0s;
+	transition:         all .3s ease-in-out 0s;
+}
+.jsn-bootstrap3 .wr-element-carousel .carousel .carousel-control span:hover {
+	background: #58c5c0;
+}
+.jsn-bootstrap3 .wr-element-carousel .carousel:hover .carousel-control span {
+	opacity: 1;
+}
+.jsn-bootstrap3 .wr-element-carousel .carousel .left.carousel-control span.icon-arrow-left {
+	left: -40px;
+}
+.jsn-bootstrap3 .wr-element-carousel .carousel:hover .left.carousel-control span.icon-arrow-left {
+	left: 20px;
+}
+.jsn-bootstrap3 .wr-element-carousel .carousel .right.carousel-control span.icon-arrow-right {
+	right: -40px;
+}
+.jsn-bootstrap3 .wr-element-carousel .carousel:hover .right.carousel-control span.icon-arrow-right {
+	right: 20px;
+}
+
+/*  [ List ]
+- - - - - - - - - - - - - - - - - - - - */
+.jsn-bootstrap3 .wr-element-list .wr-list-icons.wr-shape-circle .wr-icon-base {
+	border-color: transparent;
+}
+.jsn-bootstrap3  .wr-element-list .wr-list-content-wrap h4 {
+	margin-top: 0;
+}
+
+/*  [ Pricing Table ]
+- - - - - - - - - - - - - - - - - - - - */
+.jsn-bootstrap3 .wr-element-pricing_table .wr-prtbl-header .wr-prtbl-meta {
+	min-height: 120px;
+}
+.jsn-bootstrap3 .wr-element-pricing_table .wr-prtbl-header .wr-prtbl-price {
+	color: #58c5c0;
+}
+.jsn-bootstrap3 .wr-element-pricing_table .wr-prtbl-header .wr-prtbl-title,
+.jsn-bootstrap3 .wr-element-pricing_table .wr-prtbl-cols .wr-prtbl-footer .btn.btn-default,
+.jsn-bootstrap3 .wr-element-pricing_table .wr-prtbl-cols.wr-prtbl-cols-featured .wr-prtbl-footer .btn.btn-default:hover {
+	background: #798aa4;
+}
+.jsn-bootstrap3 .wr-element-pricing_table .wr-prtbl-cols-featured .wr-prtbl-header .wr-prtbl-title,
+.jsn-bootstrap3 .wr-element-pricing_table .wr-prtbl-cols .wr-prtbl-footer .btn.btn-default:hover,
+.jsn-bootstrap3 .wr-element-pricing_table .wr-prtbl-cols.wr-prtbl-cols-featured .wr-prtbl-footer .btn.btn-default {
+	background: #58c5c0;
+}
+.jsn-bootstrap3 .wr-element-pricing_table .wr-prtbl-cols .wr-prtbl-footer .btn.btn-default {
+	border: 0;
+	border-radius: 0;
+	color: #fff;
+}
+
+/*  [ Testimonial ]
+- - - - - - - - - - - - - - - - - - - - */
+.jsn-bootstrap3 .wr-element-testimonial .wr-testimonial-avatar img {
+	border-radius: 50%;
+}
+.jsn-bootstrap3 .wr-element-testimonial .carousel-indicators {
+	bottom: -10px !important;
+}
+.jsn-bootstrap3 .wr-element-testimonial .carousel-indicators li {
+	border: 0;
+}

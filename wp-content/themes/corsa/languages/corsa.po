@@ -1,0 +1,1031 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Corsa v1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-09-29 03:14:44+0000\n"
+"Last-Translator: WooRockets Team <translate@woorockets.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:19
+#@ corsa
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:23
+#@ corsa
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr ""
+
+#: archive.php:29
+#, php-format
+#@ corsa
+msgid "Author: %s"
+msgstr ""
+
+#: archive.php:32
+#, php-format
+#@ corsa
+msgid "Day: %s"
+msgstr ""
+
+#: archive.php:35
+#, php-format
+#@ corsa
+msgid "Month: %s"
+msgstr ""
+
+#: archive.php:35
+#@ corsa
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: archive.php:38
+#, php-format
+#@ corsa
+msgid "Year: %s"
+msgstr ""
+
+#: archive.php:38
+#@ corsa
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: archive.php:41
+#@ corsa
+msgid "Galleries"
+msgstr ""
+
+#: archive.php:44
+#@ corsa
+msgid "Images"
+msgstr ""
+
+#: archive.php:47
+#@ corsa
+msgid "Videos"
+msgstr ""
+
+#: archive.php:50
+#@ corsa
+msgid "Quotes"
+msgstr ""
+
+#: archive.php:53
+#@ corsa
+msgid "Audios"
+msgstr ""
+
+#: archive.php:56
+#@ corsa
+msgid "Archives"
+msgstr ""
+
+#: comments.php:26
+#, php-format
+#@ corsa
+msgctxt "comments title"
+msgid "One comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s comments on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:33
+#: comments.php:50
+#@ corsa
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:34
+#: comments.php:51
+#@ corsa
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:35
+#: comments.php:52
+#@ corsa
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:61
+#@ corsa
+msgid "Comments are closed."
+msgstr ""
+
+#: content-none.php:15
+#@ corsa
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:21
+#, php-format
+#@ corsa
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:25
+#@ corsa
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: content-none.php:30
+#@ corsa
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: content-page.php:22
+#: content-single.php:30
+#: content.php:70
+#@ corsa
+msgid "Pages:"
+msgstr ""
+
+#: content-single.php:40
+#: inc/template-tags.php:78
+#@ corsa
+msgid ", "
+msgstr ""
+
+#: content-single.php:45
+#, php-format
+#@ corsa
+msgid "<i class=\"icon-tags\"></i>%1$s"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: content.php:63
+#, php-format
+#@ corsa
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: footer.php:18
+#@ corsa
+msgid "Proudly powered by "
+msgstr ""
+
+#: footer.php:18
+#@ corsa
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: footer.php:18
+#: inc/customizer.php:432
+#@ corsa
+msgid "WordPress"
+msgstr ""
+
+#: footer.php:20
+#, php-format
+#@ corsa
+msgid "Designed By <b><a href=\"%2$s\">%1$s</a></b>."
+msgstr ""
+
+#: inc/customizer.php:165
+#@ corsa
+msgid "Getting Started"
+msgstr ""
+
+#: inc/customizer.php:166
+#@ corsa
+msgid "The best way to understand the template is to setup sample data on your website to make it look the same as template demo website. And when the sample data installed, it's about time to take a look at template documentation and start exploration."
+msgstr ""
+
+#: inc/customizer.php:177
+#@ corsa
+msgid "Restore Original DataInstall Sample Data"
+msgstr ""
+
+#: inc/customizer.php:189
+#@ corsa
+msgid "Read Documentation"
+msgstr ""
+
+#: inc/customizer.php:202
+#@ corsa
+msgid "Site Title & Logo & Tagline"
+msgstr ""
+
+#: inc/customizer.php:203
+#@ corsa
+msgid "Enter your website title or insert logo image. And type a short description for your website"
+msgstr ""
+
+#: inc/customizer.php:214
+#@ corsa
+msgid "Logo Type"
+msgstr ""
+
+#: inc/customizer.php:219
+#@ corsa
+msgid "Logo Text"
+msgstr ""
+
+#: inc/customizer.php:220
+#@ corsa
+msgid "Logo Image"
+msgstr ""
+
+#: inc/customizer.php:229
+#@ corsa
+msgid "Upload Logo"
+msgstr ""
+
+#: inc/customizer.php:243
+#@ corsa
+msgid "Color Schemes"
+msgstr ""
+
+#: inc/customizer.php:244
+#@ corsa
+msgid "Corsa provides 6 major color variations for your taste. Each color variation covers not only the main background, but also color of drop-down menu, links, table's header and others"
+msgstr ""
+
+#: inc/customizer.php:259
+#@ corsa
+msgid "Select Color"
+msgstr ""
+
+#: inc/customizer.php:262
+#@ corsa
+msgid "Cyan"
+msgstr ""
+
+#: inc/customizer.php:263
+#@ corsa
+msgid "Green"
+msgstr ""
+
+#: inc/customizer.php:264
+#@ corsa
+msgid "Red"
+msgstr ""
+
+#: inc/customizer.php:265
+#@ corsa
+msgid "Grey"
+msgstr ""
+
+#: inc/customizer.php:266
+#@ corsa
+msgid "Orange"
+msgstr ""
+
+#: inc/customizer.php:267
+#@ corsa
+msgid "Violet"
+msgstr ""
+
+#: inc/customizer.php:279
+#@ corsa
+msgid "Page Layout"
+msgstr ""
+
+#: inc/customizer.php:280
+#@ corsa
+msgid "Select page layout with sidebar display."
+msgstr ""
+
+#: inc/customizer.php:301
+#@ corsa
+msgid "Select Page Layout"
+msgstr ""
+
+#: inc/customizer.php:304
+#@ corsa
+msgid "Main"
+msgstr ""
+
+#: inc/customizer.php:305
+#@ corsa
+msgid "Left - Main"
+msgstr ""
+
+#: inc/customizer.php:306
+#@ corsa
+msgid "Main - Right"
+msgstr ""
+
+#: inc/customizer.php:307
+#@ corsa
+msgid "Left - Main - Right"
+msgstr ""
+
+#: inc/customizer.php:308
+#@ corsa
+msgid "Left - Right - Main"
+msgstr ""
+
+#: inc/customizer.php:309
+#@ corsa
+msgid "Main - Left - Right"
+msgstr ""
+
+#: inc/customizer.php:317
+#@ corsa
+msgid "Show Comments"
+msgstr ""
+
+#: inc/customizer.php:322
+#: inc/customizer.php:576
+#@ corsa
+msgid "Yes"
+msgstr ""
+
+#: inc/customizer.php:323
+#: inc/customizer.php:577
+#@ corsa
+msgid "No"
+msgstr ""
+
+#: inc/customizer.php:334
+#@ corsa
+msgid "Socials Network"
+msgstr ""
+
+#: inc/customizer.php:335
+#@ corsa
+msgid "Set the URLs for your social media profiles here to be used in the header. Adding in a link will make its respective icon show up without needing to do anything else."
+msgstr ""
+
+#: inc/customizer.php:387
+#@ corsa
+msgid "Facebook"
+msgstr ""
+
+#: inc/customizer.php:396
+#@ corsa
+msgid "Twitter"
+msgstr ""
+
+#: inc/customizer.php:405
+#@ corsa
+msgid "Dribbble"
+msgstr ""
+
+#: inc/customizer.php:414
+#@ corsa
+msgid "Google Plus"
+msgstr ""
+
+#: inc/customizer.php:423
+#@ corsa
+msgid "Vimeo"
+msgstr ""
+
+#: inc/customizer.php:441
+#@ corsa
+msgid "Pinterest"
+msgstr ""
+
+#: inc/customizer.php:450
+#@ corsa
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/customizer.php:459
+#@ corsa
+msgid "Yahoo"
+msgstr ""
+
+#: inc/customizer.php:468
+#@ corsa
+msgid "Skype"
+msgstr ""
+
+#: inc/customizer.php:477
+#@ corsa
+msgid "Stumbleupon"
+msgstr ""
+
+#: inc/customizer.php:486
+#@ corsa
+msgid "Youtube"
+msgstr ""
+
+#: inc/customizer.php:495
+#@ corsa
+msgid "Flickr"
+msgstr ""
+
+#: inc/customizer.php:504
+#@ corsa
+msgid "RSS"
+msgstr ""
+
+#: inc/customizer.php:513
+#@ corsa
+msgid "My Space"
+msgstr ""
+
+#: inc/customizer.php:526
+#@ corsa
+msgid "Extras"
+msgstr ""
+
+#: inc/customizer.php:552
+#@ corsa
+msgid "Upload Favicon"
+msgstr ""
+
+#: inc/customizer.php:562
+#@ corsa
+msgid "Google Analytics ID"
+msgstr ""
+
+#: inc/customizer.php:571
+#@ corsa
+msgid "Offline"
+msgstr ""
+
+#: inc/customizer.php:584
+#@ corsa
+msgid "Your Away Message"
+msgstr ""
+
+#: inc/customizer.php:593
+#@ corsa
+msgid "Countdown timer (Format: M D, Y)"
+msgstr ""
+
+#: inc/customizer.php:602
+#@ corsa
+msgid "Code Before &lt;/head&gt;"
+msgstr ""
+
+#: inc/customizer.php:611
+#@ corsa
+msgid "Code Before &lt;/body&gt;"
+msgstr ""
+
+#: inc/extras.php:72
+#, php-format
+#@ corsa
+msgid "Page %s"
+msgstr ""
+
+#: inc/init.php:98
+#@ corsa
+msgid "Main Menu"
+msgstr ""
+
+#: inc/init.php:99
+#@ corsa
+msgid "Top Menu"
+msgstr ""
+
+#: inc/init.php:100
+#@ corsa
+msgid "Footer Menu"
+msgstr ""
+
+#: inc/init.php:120
+#: inc/layout.php:99
+#@ corsa
+msgid "Primary Sidebar"
+msgstr ""
+
+#: inc/init.php:129
+#: inc/layout.php:128
+#@ corsa
+msgid "Secondary Sidebar"
+msgstr ""
+
+#: inc/init.php:138
+#@ corsa
+msgid "Bottom 1"
+msgstr ""
+
+#: inc/init.php:147
+#@ corsa
+msgid "Bottom 2"
+msgstr ""
+
+#: inc/init.php:156
+#@ corsa
+msgid "Bottom 3"
+msgstr ""
+
+#: inc/layout.php:103
+#, php-format
+#@ corsa
+msgid "This is the Primary Sidebar Area. You can add content to this area by visiting your %1$s and adding new widgets to this area."
+msgstr ""
+
+#: inc/layout.php:104
+#: inc/layout.php:133
+#@ corsa
+msgid "Widgets Panel"
+msgstr ""
+
+#: inc/layout.php:132
+#, php-format
+#@ corsa
+msgid "This is the Secondary Sidebar Area. You can add content to this area by visiting your %1$s and adding new widgets to this area."
+msgstr ""
+
+#: inc/meta-box.php:43
+#@ corsa
+msgid "Layout Options"
+msgstr ""
+
+#: inc/meta-box.php:72
+#@ corsa
+msgid "Select a specific layout for this page"
+msgstr ""
+
+#: inc/meta-box.php:73
+#@ corsa
+msgid "Default layout: <b>Global Layout On Customizer</b>"
+msgstr ""
+
+#: inc/meta-box.php:76
+#@ corsa
+msgid "---- Global Layout ----"
+msgstr ""
+
+#: inc/meta-box.php:77
+#@ corsa
+msgid "Full Width"
+msgstr ""
+
+#: inc/meta-box.php:78
+#@ corsa
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/meta-box.php:79
+#@ corsa
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/meta-box.php:80
+#@ corsa
+msgid "Left - Main Content - Right"
+msgstr ""
+
+#: inc/meta-box.php:81
+#@ corsa
+msgid "Left - Right - Main Content"
+msgstr ""
+
+#: inc/meta-box.php:82
+#@ corsa
+msgid "Main Content - Left - Right"
+msgstr ""
+
+#: inc/sample-data-installer/confirm.php:16
+#, php-format
+#@ corsa
+msgid "This installer will make your website looks the same as <a href=\"http://%1$s.woorockets.com/\" target=\"_blank\">%2$s live demo website</a>."
+msgstr ""
+
+#: inc/sample-data-installer/confirm.php:23
+#: inc/sample-data-installer/restore.php:17
+#@ corsa
+msgid "Important information"
+msgstr ""
+
+#: inc/sample-data-installer/confirm.php:25
+#@ corsa
+msgid "Installing sample data will delete all data on this website."
+msgstr ""
+
+#: inc/sample-data-installer/confirm.php:26
+#@ corsa
+msgid "It is NOT recommended to install sample data on production website."
+msgstr ""
+
+#: inc/sample-data-installer/confirm.php:33
+#@ corsa
+msgid "I agree that installing sample data will delete all content on this website"
+msgstr ""
+
+#: inc/sample-data-installer/confirmed.php:13
+#: inc/sample-data-installer/restore.php:34
+#@ corsa
+msgid "There are several stages involved in the process. Please be patient."
+msgstr ""
+
+#: inc/sample-data-installer/confirmed.php:17
+#@ corsa
+msgid "Download sample data package."
+msgstr ""
+
+#: inc/sample-data-installer/confirmed.php:22
+#@ corsa
+msgid "Upload sample data package."
+msgstr ""
+
+#: inc/sample-data-installer/confirmed.php:29
+#@ corsa
+msgid "Install sample data."
+msgstr ""
+
+#: inc/sample-data-installer/confirmed.php:34
+#@ corsa
+msgid "Download demo assets."
+msgstr ""
+
+#: inc/sample-data-installer/confirmed.php:49
+#@ corsa
+msgid "Please download sample data package manually"
+msgstr ""
+
+#: inc/sample-data-installer/confirmed.php:50
+#@ corsa
+msgid "Download File"
+msgstr ""
+
+#: inc/sample-data-installer/confirmed.php:53
+#@ corsa
+msgid "Select the downloaded sample data package to install"
+msgstr ""
+
+#: inc/sample-data-installer/confirmed.php:56
+#@ corsa
+msgid "Please select the downloaded sample data package."
+msgstr ""
+
+#: inc/sample-data-installer/confirmed.php:65
+#@ corsa
+msgid "Sample data is successfully installed"
+msgstr ""
+
+#: inc/sample-data-installer/confirmed.php:70
+#, php-format
+#@ corsa
+msgid "Congratulations, your website now looks the same as <a href=\"http://%1$s.woorockets.com/\" target=\"_blank\">%2$s live demo website</a>."
+msgstr ""
+
+#: inc/sample-data-installer/confirmed.php:79
+#@ corsa
+msgid "Attention!"
+msgstr ""
+
+#: inc/sample-data-installer/confirmed.php:82
+#@ corsa
+msgid "Sample data for following plugins could NOT be installed:"
+msgstr ""
+
+#: inc/sample-data-installer/confirmed.php:91
+#@ corsa
+msgid "Sample data is not successfully installed"
+msgstr ""
+
+#: inc/sample-data-installer/confirmed.php:95
+#: inc/sample-data-installer/restore.php:82
+#@ corsa
+msgid "Please fix any problem with your internet connection then try again."
+msgstr ""
+
+#: inc/sample-data-installer/download.php:27
+#@ corsa
+msgid "Install required plugins."
+msgstr ""
+
+#: inc/sample-data-installer/download.php:29
+#@ corsa
+msgid "For the best experience, it's strongly recommended for you to install following <strong>FREE</strong> plugins."
+msgstr ""
+
+#: inc/sample-data-installer/download.php:56
+#: inc/sample-data-installer/download.php:104
+#@ corsa
+msgid "New Installation"
+msgstr ""
+
+#: inc/sample-data-installer/download.php:61
+#: inc/sample-data-installer/download.php:104
+#@ corsa
+msgid "Update"
+msgstr ""
+
+#: inc/sample-data-installer/download.php:66
+#@ corsa
+msgid "Installed"
+msgstr ""
+
+#: inc/sample-data-installer/download.php:87
+#@ corsa
+msgid "Read more..."
+msgstr ""
+
+#: inc/sample-data-installer/import-data.php:24
+#@ corsa
+msgid "Get it now"
+msgstr ""
+
+#: inc/sample-data-installer/restore.php:14
+#@ corsa
+msgid "This process will restore the original data of your website."
+msgstr ""
+
+#: inc/sample-data-installer/restore.php:19
+#@ corsa
+msgid "Restoring original data will delete all current data on this website."
+msgstr ""
+
+#: inc/sample-data-installer/restore.php:20
+#@ corsa
+msgid "Plugins and demo assets installed by sample data installation will be removed."
+msgstr ""
+
+#: inc/sample-data-installer/restore.php:27
+#@ corsa
+msgid "I agree that restoring original data will delete all current content on this website"
+msgstr ""
+
+#: inc/sample-data-installer/restore.php:38
+#@ corsa
+msgid "Restore original data."
+msgstr ""
+
+#: inc/sample-data-installer/restore.php:43
+#@ corsa
+msgid "Remove demo assets."
+msgstr ""
+
+#: inc/sample-data-installer/restore.php:49
+#@ corsa
+msgid "Delete installed plugins."
+msgstr ""
+
+#: inc/sample-data-installer/restore.php:69
+#@ corsa
+msgid "Original data is successfully restored"
+msgstr ""
+
+#: inc/sample-data-installer/restore.php:72
+#@ corsa
+msgid "Congratulations, your website now looks the same as before."
+msgstr ""
+
+#: inc/sample-data-installer/restore.php:78
+#@ corsa
+msgid "Original data is not successfully restored"
+msgstr ""
+
+#: inc/sample-data-installer.php:119
+#: inc/sample-data-installer.php:126
+#@ corsa
+msgid "Install Sample Data"
+msgstr ""
+
+#: inc/sample-data-installer.php:120
+#: inc/sample-data-installer.php:127
+#@ corsa
+msgid "Restore Original Data"
+msgstr ""
+
+#: inc/sample-data-installer.php:128
+#@ corsa
+msgid "Continue"
+msgstr ""
+
+#: inc/sample-data-installer.php:129
+#@ corsa
+msgid "Finish"
+msgstr ""
+
+#: inc/sample-data-installer.php:131
+#@ corsa
+msgid "Cancel"
+msgstr ""
+
+#: inc/sample-data-installer.php:280
+#, php-format
+#@ corsa
+msgid "The theme version %1$s you are using is outdated. You need to update theme to the latest version %2$s before installing sample data."
+msgstr ""
+
+#: inc/sample-data-installer.php:345
+#: inc/sample-data-installer.php:354
+#@ corsa
+msgid "File upload failed."
+msgstr ""
+
+#: inc/sample-data-installer.php:372
+#@ corsa
+msgid "Missing parameter."
+msgstr ""
+
+#: inc/sample-data-installer.php:435
+#, php-format
+#@ corsa
+msgid "Upgrade plugin failed: %s"
+msgstr ""
+
+#: inc/sample-data-installer.php:436
+#: inc/sample-data-installer.php:453
+#@ corsa
+msgid "Unknown reason"
+msgstr ""
+
+#: inc/sample-data-installer.php:452
+#, php-format
+#@ corsa
+msgid "Plugin installation failed: %s"
+msgstr ""
+
+#: inc/sample-data-installer.php:465
+#, php-format
+#@ corsa
+msgid "Plugin activation failed: %s"
+msgstr ""
+
+#: inc/sample-data-installer.php:728
+#, php-format
+#@ corsa
+msgid "Sample data import has encountered an error and cannot continue: %s"
+msgstr ""
+
+#: inc/sample-data-installer.php:806
+#: inc/sample-data-installer.php:821
+#@ corsa
+msgid "Missing demo asset to download."
+msgstr ""
+
+#: inc/sample-data-installer.php:813
+#@ corsa
+msgid "Missing list of demo assets to download."
+msgstr ""
+
+#: inc/sample-data-installer.php:829
+#@ corsa
+msgid "Invalid demo asset URL."
+msgstr ""
+
+#: inc/sample-data-installer.php:910
+#, php-format
+#@ corsa
+msgid "Fail to download %1$s due to following error: %2$s"
+msgstr ""
+
+#: inc/sample-data-installer.php:966
+#@ corsa
+msgid "Not found any data backup file."
+msgstr ""
+
+#: inc/sample-data-installer.php:1023
+#@ corsa
+msgid "Missing plugin to delete."
+msgstr ""
+
+#: inc/sample-data-installer.php:1073
+#, php-format
+#@ corsa
+msgid "Unable to create directory %s for storing downloaded file"
+msgstr ""
+
+#: inc/sample-data-installer.php:1082
+#, php-format
+#@ corsa
+msgid "Unable to save downloaded file to %s"
+msgstr ""
+
+#: inc/sample-data-installer.php:1174
+#, php-format
+#@ corsa
+msgid "Unable to extract sample data package: %s"
+msgstr ""
+
+#: inc/sample-data-installer.php:1183
+#: inc/sample-data-installer.php:1221
+#, php-format
+#@ corsa
+msgid "Invalid sample data package: %s"
+msgstr ""
+
+#: inc/sample-data-installer.php:1183
+#@ corsa
+msgid "XML file not found"
+msgstr ""
+
+#: inc/sample-data-installer.php:1201
+#@ corsa
+msgid "Unable to parse XML file for sample data declaration."
+msgstr ""
+
+#: inc/sample-data-installer.php:1222
+#@ corsa
+msgid "Theme name in sample data package does not match the one installed"
+msgstr ""
+
+#: inc/template-tags.php:40
+#@ corsa
+msgid "&laquo;"
+msgstr ""
+
+#: inc/template-tags.php:41
+#@ corsa
+msgid "&raquo;"
+msgstr ""
+
+#: inc/template-tags.php:66
+#, php-format
+#@ corsa
+msgctxt "post author"
+msgid "<i class=\"icon-user\"></i>%s"
+msgstr ""
+
+#: inc/template-tags.php:71
+#, php-format
+#@ corsa
+msgctxt "post date"
+msgid "<i class=\"icon-calendar\"></i>%s"
+msgstr ""
+
+#: inc/template-tags.php:81
+#, php-format
+#@ corsa
+msgid "<i class=\"icon-category\"></i>%1$s"
+msgstr ""
+
+#: inc/template-tags.php:88
+#@ corsa
+msgid "0 Comment"
+msgstr ""
+
+#: inc/template-tags.php:88
+#@ corsa
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:88
+#@ corsa
+msgid "% Comments"
+msgstr ""
+
+#: inc/template-tags.php:110
+#@ corsa
+msgid "Pingback:"
+msgstr ""
+
+#: inc/template-tags.php:112
+#@ corsa
+msgid "Edit"
+msgstr ""
+
+#: inc/template-tags.php:127
+#@ corsa
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/template-tags.php:135
+#@ corsa
+msgid "Post author"
+msgstr ""
+
+#: inc/template-tags.php:142
+#, php-format
+#@ corsa
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/template-tags.php:157
+#@ corsa
+msgid "<span>Edit</span>"
+msgstr ""
+
+#: inc/template-tags.php:162
+#@ corsa
+msgid "<span>Reply</span>"
+msgstr ""
+
+#: search.php:20
+#, php-format
+#@ corsa
+msgid "Search Results for: %s"
+msgstr ""
+
+#: single.php:33
+#, php-format
+#@ corsa
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span>&nbsp;%title"
+msgstr ""
+
+#: single.php:34
+#, php-format
+#@ corsa
+msgctxt "Next post link"
+msgid "%title&nbsp;<span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
